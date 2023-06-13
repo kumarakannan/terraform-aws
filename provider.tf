@@ -17,3 +17,4 @@ resource "aws_instance" "app_server" {
   ami           = "ami-092b51d9008adea15"
   instance_type = "t3.micro"
 }
+
